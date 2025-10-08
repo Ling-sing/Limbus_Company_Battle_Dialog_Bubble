@@ -1,0 +1,39 @@
+# Limbus Company 人格战斗语音气泡
+
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025092801-blue)
+
+在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
+
+**请注意：大部分战斗语音不在游戏内存在文本，这些增添的气泡内容并非零协或月亮计划官方文本，而是个人结合部分网上资源进行的翻译，可能存在错误。**
+
+## 安装方法
+
+下载仓库中的BattleSpeechBubbleDlg.json文件，替换掉正在使用的汉化中的该文件。
+
+具体而言，进入Limbus Company的根目录（通常而言，它的路径应该是是.../Steam/steamapps/common/Limbus Company）然后进入/LimbusCompany_Data/Lang/”你正在使用的翻译的文件夹“（如果使用零协的翻译，这个文件夹应该叫LLC_zh-CN），将下载的文件粘贴到文件夹中替换原来的文件。
+
+**请注意：如果使用零协汉化，那么你在每次使用工具箱更新后这个文件都会重新被替换为零协会的汉化文件，因此每次更新完都需要重新手动覆盖。**
+
+## 已知问题
+
+Девять协会北部3科 罗佳 与 Девять协会北部3科 辛克莱：所有波鲁德尼察的语音无法触发气泡（除部分和人物台词一同播放的音频被整合进了人物台词气泡外）
+
+LCE E.G.O::红焰煞 浮士德：3技能的部分结尾语音可能没有气泡
+
+N公司E.G.O::凶弹 李箱 与 N公司E.G.O::轻蔑，敬畏 良秀：连携技能“开火//无论何时”使用时的语音没有气泡
+
+## 鸣谢
+
+NotherWael的英文版语音气泡仓库：https://github.com/NotherWael/LimbusDialogueBoxes_EN
+
+NotherWael的未翻译音频翻译合集网站：https://github.com/NotherWael/LimbusDialogueBoxes_EN
+
+零协会的文本汉化：https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany
+
+边狱公司中文维基对技能和特殊触发音频的汉化：https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
+
+---
+
+该作品使用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议。
+
+Copyright (c) 2025-present Lingsing

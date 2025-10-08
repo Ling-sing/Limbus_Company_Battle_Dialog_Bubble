@@ -16,7 +16,9 @@
 
 ## 已知问题
 
-Девять协会北部3科 罗佳 与 Девять协会北部3科 辛克莱：所有波鲁德尼察的语音无法触发气泡（除部分和人物台词一同播放的音频被整合进了人物台词气泡外）
+Девять协会 北部3科 罗佳 与 Девять协会 北部3科 辛克莱：所有波鲁德尼察的语音无法触发气泡（除部分和人物台词一同播放的音频被整合进了人物台词气泡外）
+
+句点事务所 代表 鸿璐：强化2/3技能中存在希斯克利夫的语音但夫不在场上，所以只能做进鸿璐的语音气泡。但是夫的语音有两种，因此只能把两种语音全加进同一个气泡里了。
 
 LCE E.G.O::红焰煞 浮士德：3技能的部分结尾语音可能没有气泡
 
@@ -26,11 +28,11 @@ N公司E.G.O::凶弹 李箱 与 N公司E.G.O::轻蔑，敬畏 良秀：连携技
 
 NotherWael的英文版语音气泡仓库：https://github.com/NotherWael/LimbusDialogueBoxes_EN
 
-NotherWael的未翻译音频翻译合集网站：https://github.com/NotherWael/LimbusDialogueBoxes_EN
+NotherWael的未翻译音频翻译合集网站：https://notherwael.github.io/LCB-ID-TLs/#
 
 零协会的文本汉化：https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany
 
-边狱公司中文维基对技能和特殊触发音频的汉化：https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
+边狱公司中文维基对技能和特殊音频的汉化：https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 
 ---
 

@@ -1,6 +1,6 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025092801-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025100901-blue)
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

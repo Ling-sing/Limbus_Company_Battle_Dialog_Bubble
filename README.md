@@ -1,10 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025102401-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025110701-blue)
 
-### 2025.10.25 主要更新：增加了拉·曼却领 王子 默尔索与W公司 4级清扫人员 - CCA 希斯克利夫的战斗语音
-
-### 2025 10.30 小更新：更正了 拉·曼却领王子 默尔索的部分语音翻译并添加了触发条件注释
+### 2025.11.7 主要更新：添加了定事务所 代表 以实玛利与夜锥组 队长 格里高尔的战斗语音
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

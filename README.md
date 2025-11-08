@@ -36,8 +36,17 @@ NotherWael的未翻译音频翻译合集网站：https://notherwael.github.io/LC
 
 边狱公司中文维基对技能和特殊音频的汉化：https://limbuscompany.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 
----
+## 版权与许可声明
 
-该作品使用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议。
+本项目内容主要包含两方面来源：
+
+1. **零协会汉化组内容**：所有能在放映室中直接观看的语音的气泡文本均来源于都市零协会汉化组对游戏Limbus Company的汉化项目，遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议。
+2. **个人翻译内容**：游戏内不存在直接文本的战斗中语音来源于个人参考上文所述来源的资料进行的翻译，同样遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议发布。
+
+因此，本项目整体遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议。
+
+您可以在进行**署名**，且遵守**非商业化使用**与**相同方式共享**的条件后，自由**演绎**、**共享**本项目且无需取得许可。
+
+Copyright (c) 2024-present Localize Limbus Company
 
 Copyright (c) 2025-present Lingsing

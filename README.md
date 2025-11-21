@@ -1,6 +1,6 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025110701-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025112101-blue)
 
 ### 2025.11.21 主要更新：添加了黑兽-未 堂吉诃德与黑兽-酉 希斯克利夫的语音
 

@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025112101-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025120501-blue)
 
-### 2025.11.21 主要更新：添加了黑兽-未 堂吉诃德与黑兽-酉 希斯克利夫的语音
+### 2025.11.21 主要更新：添加了鸿园的流浪武者 良秀的战斗语音。根据零协会对黑兽-酉 魁首 希斯克利夫人格剧情中的翻译，将3技能与强化3技能的首句语音翻译更改为“血爪炎火”，以保持同步。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

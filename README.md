@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025120501-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025121001-blue)
 
-### 2025.11.21 主要更新：添加了鸿园的流浪武者 良秀的战斗语音。根据零协会对黑兽-酉 魁首 希斯克利夫人格剧情中的翻译，将3技能与强化3技能的首句语音翻译更改为“血爪炎火”，以保持同步。
+### 2025.12.10 主要更新：修改了一些人格的语音翻译问题。对敌方未翻译语音进行了全面的重译。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 
@@ -12,7 +12,7 @@
 
 下载仓库中的BattleSpeechBubbleDlg.json文件，替换掉正在使用的汉化中的该文件。
 
-具体而言，进入Limbus Company的根目录（通常而言，它的路径应该是是.../Steam/steamapps/common/Limbus Company）然后进入/LimbusCompany_Data/Lang/”你正在使用的翻译的文件夹“（如果使用零协的翻译，这个文件夹应该叫LLC_zh-CN），将下载的文件粘贴到文件夹中替换原来的文件。
+具体而言，进入Limbus Company的根目录（通常而言，它的路径应该是.../Steam/steamapps/common/Limbus Company）然后进入/LimbusCompany_Data/Lang/”你正在使用的翻译的文件夹“（如果使用零协的翻译，这个文件夹应该叫LLC_zh-CN），将下载的文件粘贴到文件夹中替换原来的文件。
 
 **请注意：如果使用零协汉化，那么你在每次使用零协工具箱更新后这个文件都会重新被替换为零协会的汉化文件，因此每次更新完都需要重新手动覆盖。**
 

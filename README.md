@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2025121801-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260102-blue)
 
-### 2025.12.10 主要更新：添加了R公司第四集团军 驯鹿队 罗佳的战斗语音。修复了黑兽-酉 辛克莱 三技能第一句台词的ID引用问题。修改了拉·曼却领 总督 堂吉诃德强化反击的翻译，使其与拉·曼却领 公主 罗佳以及二代眷属 杜尔西内娅的翻译保持一致。
+### 2026.01.02 主要更新：添加了LCA 荷鲁斯之眼 先锋三队队长 奥提斯与食指苦行者【纸条】 浮士德的语音。修改了拇指 东部指挥官IIII 默尔索的部分语音。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

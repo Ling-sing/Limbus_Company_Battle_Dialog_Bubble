@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260102-blue)
 
-### 2026.01.02 主要更新：添加了LCA 荷鲁斯之眼 先锋三队队长 奥提斯与食指苦行者【纸条】 浮士德的语音。修改了拇指 东部指挥官IIII 默尔索的部分语音。
+### 2026.01.10 主要更新：添加了食指 代行者-绽放E.G.O::代行 堂吉诃德的语音。修改了食指 苦行者:【纸条】 浮士德的部分语音。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

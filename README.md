@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260102-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260123-blue)
 
-### 2026.01.10 主要更新：添加了食指 代行者-绽放E.G.O::代行 堂吉诃德的语音。修改了食指 苦行者:【纸条】 浮士德的部分语音。
+### 2026.01.23 主要更新：添加了蜘蛛巢 中指子辈 以实玛利的语音。添加了第九章敌人部分疑似遗漏的语音。修改了玫瑰工坊扳手 代表 罗佳的语音。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

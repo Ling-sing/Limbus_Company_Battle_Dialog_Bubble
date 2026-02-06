@@ -1,6 +1,6 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260123-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260206-blue)
 
 ### 2026.01.23 主要更新：添加了蜘蛛巢 中指子辈 以实玛利的语音。添加了第九章敌人部分疑似遗漏的语音。修改了玫瑰工坊扳手 代表 罗佳的语音。
 

@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-20260306BETA-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026031201-blue)
 
-### 2026.03.06 Beta更新：添加了脑叶公司E.G.O::余香·孤独 良秀与脑叶公司E.G.O::黄蜂【变调】 默尔索的语音（Beta）。
+### 2026.03.12 主要更新：修正了脑叶公司E.G.O::黄蜂【变调】 默尔索的部分语音，并标注了语音触发条件
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026031201-blue)
 
-### 2026.03.12 主要更新：修正了脑叶公司E.G.O::黄蜂【变调】 默尔索的部分语音，并标注了语音触发条件
+### 2026.03.20 主要更新：添加了LCE E.G.O::AEDD 格里高尔的语音；为脑叶公司E.G.O::余香·孤独 良秀的部分缺失语音标注了语音触发条件；修复了定事务所 代表 以实玛利的部分语音错误
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

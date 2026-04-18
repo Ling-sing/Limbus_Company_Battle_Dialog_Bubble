@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026040301-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026041801-blue)
 
-### 2026.04.03 主要更新：添加了蜘蛛巢 环指父辈 鸿璐与蜘蛛巢 环指子辈 浮士德的战斗语音。
+### 2026.04.18 主要更新：添加了环指 野兽派讲解员 罗佳与环指 野兽派学徒 默尔索的语音。修改了LCE E.G.O::红焰煞 浮士德的部分语音。
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

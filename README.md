@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026050701-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026051501-blue)
 
-### 2026.05.02 主要更新：修正了里卡多（深夜清扫）的语音翻译，添加了脑叶公司E.G.O::余香·孤独 良秀以及脑叶公司E.G.O::黄蜂【变调】默尔索的一条修复语音
+### 2026.05.02 主要更新：添加了蜘蛛巢之刃 良秀的战斗语音
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 

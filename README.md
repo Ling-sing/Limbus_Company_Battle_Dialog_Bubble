@@ -1,8 +1,8 @@
 # Limbus Company 人格战斗语音气泡
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026051601-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green) ![Version](https://img.shields.io/badge/Version-2026052901-blue)
 
-### 2026.05.16 主要更新：修复了未添加蜘蛛巢之刃 良秀对主线及各镜牢各boss的彩蛋文本的问题
+### 2026.05.29 主要更新：添加了蜘蛛巢 中指父辈 奥提斯的战斗语音气泡
 
 在零协会汉化的基础上，为boss与人格在战斗中播放的语音增添了气泡。
 
